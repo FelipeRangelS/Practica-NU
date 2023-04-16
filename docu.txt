@@ -1,2 +1,3 @@
 primer repositorio del ejercicio nextu
 bueno colocar nueva modificacion en la practica y subir los cambios al repo remoto
+otra modificacion para subir desde el controlador al remoto intentando
